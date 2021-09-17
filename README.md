@@ -12,6 +12,11 @@ This code references to a scientific paper, in submission for CEAS SPACE. To ref
       primaryClass={eess.SY}
 }
 ```
+## Results
+<p align="center">
+	<img width="500" src="fig1_paper.png?raw=true">
+</p>
+
 ## Installation
 Installation procedure is explained in https://www.cvxpy.org/install/
 The following interface is recommended to run the code : https://jupyter.org/install
