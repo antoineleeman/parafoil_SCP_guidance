@@ -1,7 +1,7 @@
 # Autonomous parafoil precision landing using convex real-time optimized guidance and control
 
 ## Introduction
-This code references to an accepted CEAS space paper. To reference this work, please cite
+This code references to an accepted CEAS space paper. To reference this work, please cite https://link.springer.com/article/10.1007/s12567-021-00406-z
 ```
 @article{leeman2023autonomous,
   title={Autonomous parafoil precision landing using convex real-time optimized guidance and control},
